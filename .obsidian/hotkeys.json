@@ -1,0 +1,10 @@
+{
+  "journals::open-today's-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
