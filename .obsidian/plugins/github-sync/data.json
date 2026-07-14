@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/RoshanMuhammedR/vault.git",
+  "gitLocation": "",
+  "syncinterval": 2,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
